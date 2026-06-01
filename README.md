@@ -1,5 +1,8 @@
 # 🚦 Traffic Accident Analysis — SkillCraft Technology Task 04
 
+## 📓 View Notebook
+👉 [Open in Google Colab](https://colab.research.google.com/github/aishwaryaV007/SCT_DS_4/blob/main/accident_analysis.ipynb)
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Pandas](https://img.shields.io/badge/Pandas-EDA-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange) ![Folium](https://img.shields.io/badge/Folium-Heatmap-red)
 
 ---
